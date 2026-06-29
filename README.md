@@ -4,16 +4,14 @@ Software engineering student focused on building scalable systems and practical 
 
 ## 🔧 Tech Stack
 - Java
-- Spring Boot
 - SQL
 - REST APIs
 - Git
 - Data Structures & Algorithms
 
 ## 🚀 Projects
-- [Project Name](link) – Short one-line description
-- [Project Name](link) – Short one-line description
+- https://go-finance.streamlit.app/ - XGBoost Stock Prediction Bot.
 
 ## 📫 Contact
-- LinkedIn:
-- Email:
+- LinkedIn: linkedin.com/in/jacob-liu-1a40a9269/
+- Email: Jacobliu2017@outlook.com
